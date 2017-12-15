@@ -1,0 +1,18 @@
+{
+  "name": "happy-marriage",
+  "version": "1.0.0",
+  "description": "invitation card h5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhouzongren/h5invatationcard.git"
+  },
+  "keywords": [
+    "h5invatationcard"
+  ],
+  "author": "zzr",
+  "license": "ISC"
+}
